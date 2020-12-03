@@ -17,13 +17,13 @@ def parse_line(line: str) -> (int, int, str, str):
 
 
 # Validate password for part I
-def validate_password_for_sleds(min_count: int, max_count: int, letter: str, password: str):
+def validate_password_for_sleds(min_count: int, max_count: int, letter: str, password: str) -> bool:
     count = len([a for a in password if a == letter])
     return min_count <= count <= max_count
 
 
 # Validate password for part II
-def validate_password_for_toboggan(pos1, pos2, letter, password):
+def validate_password_for_toboggan(pos1: int, pos2: int, letter: str, password: str) -> bool:
     return (password[pos1-1] == letter) ^ (password[pos2-1] == letter)
 
 
