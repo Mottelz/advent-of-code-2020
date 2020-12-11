@@ -1,0 +1,594 @@
+drab plum contain 5 clear turquoise 5 striped aqua 4 dotted gold 4 plaid chartreuse
+faded cyan contain 1 dim brown 5 wavy magenta 3 vibrant chartreuse 4 muted fuchsia
+shiny brown contain 4 dark maroon
+bright plum contain 3 dull tomato 5 bright tan 4 plaid lime
+plaid purple contain 2 posh black
+wavy turquoise contain 1 wavy white 5 dotted maroon
+dotted aqua contain 4 dotted brown 4 dim plum
+drab chartreuse contain 2 dark olive
+vibrant black contain 5 mirrored black 3 dark chartreuse 2 muted salmon 1 plaid coral
+posh purple contain 1 faded white 5 clear gray 4 clear silver
+drab coral contain 5 dark salmon
+wavy silver contain 5 dotted turquoise 3 dark bronze 1 muted silver
+plaid silver contain 2 plaid tomato
+dark olive contain 5 faded olive 5 dull chartreuse 1 pale gold 3 dull tomato
+mirrored lime contain 3 dull purple 4 light teal
+bright green contain 2 pale tan 5 drab tan
+posh lavender contain 4 posh indigo 5 mirrored brown
+muted purple contain 2 posh chartreuse 3 faded lime 3 dim chartreuse 2 striped fuchsia
+drab gray contain 1 striped indigo 2 dim coral
+posh olive contain 1 dim tomato 4 light gray
+posh yellow contain 2 posh purple
+clear cyan contain 1 dotted lime 4 dark bronze 5 wavy lime
+clear olive contain 2 drab coral 2 bright olive 3 vibrant indigo 1 bright cyan
+dotted brown contain 2 muted tomato
+dim lime contain 1 posh purple 3 pale gold 3 light silver 1 dotted turquoise
+drab aqua contain 4 dim olive 1 light gray
+wavy beige contain 2 striped indigo 4 faded crimson 4 posh coral
+pale olive contain 1 muted blue
+drab teal contain 2 vibrant lime 3 light turquoise 5 bright lavender
+striped fuchsia contain 3 bright teal 5 dim bronze 3 faded cyan
+dark red contain 3 vibrant gold 5 faded bronze
+posh cyan contain 2 light tan
+light salmon contain 2 plaid beige 2 dull chartreuse 1 faded beige
+clear indigo contain 4 plaid olive 1 pale brown 3 shiny fuchsia 4 dotted tomato
+shiny olive contain 5 dotted lavender 5 bright maroon 5 faded maroon
+muted blue contain 1 dull violet
+bright red contain 2 dull bronze 3 pale lime 1 vibrant brown 5 muted magenta
+pale violet contain 4 pale plum
+muted bronze contain 2 mirrored gold 4 plaid crimson 4 light cyan
+dim gray contain 4 dim tomato 5 wavy magenta
+shiny crimson contain 5 muted brown
+dim indigo contain 3 striped beige 3 clear gold 2 bright gray
+dotted turquoise contain 2 striped red
+striped tan contain 3 light yellow
+muted brown contain 3 posh black 3 striped brown 5 light gray 2 clear white
+clear blue contain 2 plaid gold 5 mirrored white
+wavy purple contain 1 wavy magenta 1 muted aqua 3 dim gray 1 dim tomato
+striped magenta contain 2 pale fuchsia 4 light cyan 2 shiny fuchsia
+dotted teal contain 1 mirrored blue 1 posh plum 2 dull violet 4 dotted brown
+drab lavender contain 5 pale yellow 1 clear silver
+dull beige contain 4 clear chartreuse 4 drab gray
+faded indigo contain 1 pale cyan
+plaid chartreuse contain 4 muted aqua 3 dim coral 3 pale gold
+dull fuchsia contain 5 pale maroon 2 mirrored bronze
+drab white contain 4 dull orange
+dark maroon contain 5 dim lavender
+pale black contain 2 wavy silver
+pale bronze contain 4 dim salmon 5 vibrant lavender 4 vibrant crimson 1 bright crimson
+mirrored cyan contain 3 pale lavender 5 dull silver
+dotted green contain 1 bright yellow 5 drab fuchsia 5 posh orange 5 mirrored blue
+plaid green contain 1 wavy tan 2 clear chartreuse
+drab beige contain 3 dotted lime 4 clear brown 2 dotted salmon
+light turquoise contain 3 dotted tomato 1 muted silver 4 striped brown
+light crimson contain 2 dark aqua 4 bright violet 1 mirrored olive 4 mirrored violet
+wavy maroon contain 2 dull teal 2 pale violet 5 bright aqua 2 faded tan
+dark coral contain 5 striped black
+faded orange contain 3 clear silver 2 vibrant tomato
+dotted olive contain 5 clear gray 5 striped indigo 5 dim gray 5 posh plum
+shiny salmon contain 2 wavy fuchsia 4 striped gold 5 wavy coral
+wavy red contain 1 clear silver 5 dotted beige 1 pale cyan 4 dim beige
+light gray contain 3 dim coral 5 striped indigo 2 bright lime 4 vibrant magenta
+muted chartreuse contain 2 dim tomato 5 dim coral 3 pale yellow 5 drab gray
+pale turquoise contain 2 light gray 3 faded salmon 4 drab white 3 plaid olive
+striped turquoise contain 3 pale plum
+drab cyan contain 3 wavy indigo 3 clear white
+dark magenta contain 3 muted blue
+faded gray contain 1 muted green 5 posh coral 3 wavy magenta 4 light beige
+posh crimson contain 1 faded lavender
+faded green contain 4 mirrored red 5 plaid beige 2 shiny maroon 3 mirrored lime
+mirrored silver contain 2 wavy gold 1 clear beige
+shiny aqua contain 1 bright teal 4 wavy tan
+plaid lime contain 2 striped indigo
+clear beige contain 5 dim tomato 2 plaid olive 2 dark crimson 5 dull turquoise
+striped beige contain 2 bright white 1 pale cyan 3 dark bronze 3 vibrant gray
+dark indigo contain 2 striped plum
+wavy coral contain 4 posh cyan 3 muted fuchsia
+plaid gray contain 2 clear maroon 3 wavy beige 3 light lime
+dim yellow contain 2 dotted olive 5 wavy magenta 2 mirrored tomato
+plaid fuchsia contain 3 dotted white 1 dull purple
+bright violet contain 1 shiny lavender 3 dotted tomato 4 dotted white 3 mirrored olive
+light cyan contain 2 posh black
+shiny orange contain 2 dull purple 1 dotted maroon 2 dull indigo 4 drab gold
+pale purple contain 1 dotted magenta 3 drab red 1 posh lime 4 muted turquoise
+dim brown contain 3 dull coral 1 dark tan 1 pale red 3 clear chartreuse
+shiny maroon contain 3 mirrored indigo
+pale tomato contain 2 drab gray 3 shiny lavender 4 clear silver
+vibrant magenta contain no other
+plaid indigo contain 4 dotted black 1 vibrant aqua
+striped chartreuse contain 2 pale orange 5 pale maroon 2 dim lime
+dim coral contain no other
+mirrored yellow contain 4 dotted tan 1 dull blue
+clear lime contain 4 striped violet 3 striped chartreuse 5 drab crimson
+bright salmon contain 2 shiny plum 5 faded white
+light green contain 5 mirrored bronze 4 dull chartreuse
+vibrant beige contain 4 striped brown 4 muted blue 5 shiny crimson
+plaid tan contain 3 pale blue 5 light gray 3 posh tomato
+dull aqua contain 4 muted blue
+wavy green contain 4 drab orange 2 vibrant yellow 5 faded beige 3 dotted turquoise
+muted yellow contain 5 pale magenta 5 striped plum
+mirrored tomato contain 3 pale salmon 4 shiny lavender 1 dark bronze 2 pale blue
+drab fuchsia contain 5 mirrored purple
+drab olive contain 3 wavy violet 3 light tan 4 pale brown
+faded brown contain 2 light crimson
+vibrant white contain 2 pale tomato 4 dotted turquoise 3 pale blue
+dotted yellow contain 3 clear chartreuse 5 drab cyan 5 striped magenta
+posh coral contain 4 light tan 4 pale brown
+drab gold contain 2 light tan 4 clear white
+mirrored purple contain 3 shiny gold
+posh green contain 4 wavy indigo 1 dark crimson 1 muted brown 1 light gray
+bright maroon contain 5 dotted silver
+dim chartreuse contain 4 faded olive
+bright coral contain 2 bright olive 2 light silver
+striped gold contain 1 dotted maroon 4 posh maroon 1 pale gold
+light chartreuse contain 3 plaid blue 4 shiny gold 4 dull teal
+clear salmon contain 5 plaid blue 3 muted cyan 1 mirrored tomato
+wavy blue contain 2 drab turquoise 5 vibrant purple 3 faded indigo 2 bright green
+dark beige contain 4 faded crimson 3 dim silver 4 plaid green
+bright gold contain 1 striped indigo 2 dark salmon
+posh bronze contain 3 dim gray
+mirrored lavender contain 4 striped maroon 5 light blue 2 wavy coral 4 faded crimson
+pale tan contain 3 vibrant beige 1 dark crimson 1 drab brown 1 bright olive
+mirrored coral contain 1 clear white 5 dotted beige 2 dull violet
+striped white contain 3 vibrant gold 1 vibrant crimson 5 muted indigo 4 clear gold
+plaid white contain 3 light gray 5 drab turquoise 5 dark lavender
+clear brown contain 1 striped indigo 1 muted cyan 3 striped tomato 2 bright cyan
+pale beige contain 2 bright fuchsia 2 dotted fuchsia 3 mirrored black 3 dull gold
+shiny lavender contain 5 clear white 3 striped brown
+posh salmon contain 4 mirrored plum 1 dotted purple 1 striped gray 1 bright green
+posh magenta contain 4 dark gray 3 shiny fuchsia 5 dotted tomato 2 posh yellow
+striped yellow contain 2 faded white 1 dotted lavender 2 posh coral 1 light yellow
+bright tomato contain 4 shiny plum 4 dotted olive 4 clear purple 2 dotted plum
+mirrored turquoise contain 2 wavy beige 2 dim gray 5 dark indigo
+vibrant lavender contain 3 pale magenta 2 shiny coral 4 drab white 5 vibrant white
+faded magenta contain 1 plaid lavender 2 drab teal 5 dull beige
+dark yellow contain 1 mirrored gold 2 dark lavender 3 striped indigo
+posh silver contain 1 dull purple 2 plaid olive 3 striped red
+dull green contain 4 striped crimson 5 dim coral 3 vibrant aqua
+dotted black contain 4 posh plum 1 muted blue 4 shiny beige 1 dotted lime
+light yellow contain 5 muted tomato 3 muted fuchsia 5 posh maroon
+wavy black contain 3 bright white 2 bright lavender
+muted crimson contain 1 dark crimson 4 pale salmon 4 striped red 2 dim tomato
+shiny yellow contain 5 posh salmon 3 dotted olive
+striped olive contain 1 light black 1 mirrored olive 1 dull purple 2 light orange
+light silver contain 4 clear silver 4 mirrored black 2 clear gray
+dull indigo contain 2 muted lime
+muted indigo contain 4 posh lime 4 dull white
+posh red contain 2 posh cyan 2 dull brown 5 drab maroon
+plaid brown contain 3 clear silver 5 dim beige 3 dim lime 4 striped blue
+pale green contain 2 shiny bronze 3 mirrored plum 4 light yellow
+plaid maroon contain 5 plaid cyan 1 drab white
+dim teal contain 4 posh maroon 1 dull gold 4 muted coral
+clear lavender contain 5 striped brown 3 posh plum
+bright yellow contain 5 clear tan 2 striped salmon
+clear fuchsia contain 3 clear coral 4 muted aqua
+muted maroon contain 3 dotted fuchsia
+dark plum contain 3 dotted tomato 5 clear violet 3 vibrant magenta
+bright magenta contain 2 plaid tan 4 dotted purple 3 wavy indigo
+dull plum contain 3 muted crimson 4 mirrored green
+dull black contain 3 muted chartreuse 1 posh cyan 4 bright gray
+posh orange contain 5 striped violet
+vibrant teal contain 3 bright red 1 wavy indigo 3 pale brown
+pale gold contain no other
+faded plum contain 2 striped plum 3 wavy maroon 5 vibrant bronze 4 clear green
+shiny coral contain 5 dull white 1 clear tan 3 shiny beige
+bright lavender contain 2 bright lime
+shiny indigo contain 4 dull coral 5 posh coral
+muted turquoise contain 5 drab crimson 4 drab teal 3 vibrant bronze
+pale plum contain 2 dull beige 3 dotted turquoise
+dull gray contain 3 bright salmon
+vibrant indigo contain 2 mirrored bronze 3 light orange
+light lime contain 4 drab coral
+pale magenta contain 3 dark crimson
+clear aqua contain 2 plaid olive 4 muted indigo
+light gold contain 4 vibrant white 5 faded lime 3 striped brown 5 dim coral
+dull crimson contain 3 dim olive 4 dim turquoise 1 muted fuchsia
+clear gray contain 3 clear white 4 dark crimson 4 dotted plum 3 light gray
+dotted tomato contain 5 mirrored blue 3 dotted crimson
+bright indigo contain 3 wavy lime 5 dark bronze 4 shiny brown
+light lavender contain 1 dim fuchsia
+clear purple contain 4 dark red 3 clear turquoise
+dark lavender contain 5 vibrant crimson 1 vibrant white 3 dull purple 1 plaid tan
+vibrant green contain 2 wavy teal 2 dull orange 5 plaid coral 2 striped yellow
+faded maroon contain 1 muted tomato 3 pale gold 2 muted fuchsia
+light tomato contain 3 shiny fuchsia 4 dull turquoise
+light olive contain 4 dotted indigo 3 pale coral
+faded blue contain 2 light gray 3 muted brown 5 dim coral 1 light tan
+mirrored white contain 1 posh cyan
+dull bronze contain 5 clear lavender 4 bright olive 4 dull brown 2 striped black
+vibrant coral contain 2 dim coral 2 faded blue 2 drab cyan
+bright lime contain no other
+wavy crimson contain 1 dim indigo
+vibrant blue contain 2 posh gold 3 mirrored tan 3 muted green 5 faded beige
+light orange contain 5 posh black 2 dull brown
+striped indigo contain no other
+faded lime contain 2 dull violet 2 shiny lavender
+dim bronze contain 4 mirrored blue
+pale coral contain 2 clear magenta 4 clear gold
+wavy fuchsia contain 3 muted olive 1 dull violet
+mirrored indigo contain 1 clear magenta 3 mirrored beige 3 bright violet
+plaid turquoise contain 2 muted turquoise
+dull blue contain 2 dotted white 5 mirrored green
+posh white contain 2 pale teal 4 pale green 5 dim bronze 5 mirrored cyan
+mirrored teal contain 2 plaid blue 1 drab crimson
+clear silver contain 5 striped indigo 2 dim plum 5 muted aqua 5 light tan
+dull lime contain 2 plaid crimson 5 light cyan 1 dotted crimson
+dull yellow contain 3 plaid aqua 2 dim red
+mirrored olive contain 4 faded blue 2 posh purple 1 striped brown
+vibrant fuchsia contain 2 light black 2 vibrant salmon
+mirrored black contain 4 posh cyan 1 wavy indigo
+pale yellow contain 2 faded blue 5 muted fuchsia 2 striped brown
+pale fuchsia contain 1 drab silver 2 clear silver 2 shiny lavender
+drab turquoise contain 5 drab cyan 5 plaid cyan 3 wavy tan
+vibrant red contain 4 mirrored beige 2 wavy magenta 1 light cyan
+striped red contain no other
+vibrant brown contain 1 dotted tomato 3 vibrant magenta 2 striped beige 4 dull brown
+faded chartreuse contain 4 light gray 5 striped salmon 5 dark salmon 3 dull orange
+mirrored tan contain 4 clear chartreuse
+light tan contain no other
+dim blue contain 2 dull white
+posh tomato contain 3 dull indigo 2 striped red
+bright blue contain 3 shiny crimson 4 muted brown 3 dotted magenta 2 pale salmon
+faded gold contain 3 clear white 2 dotted turquoise 5 light orange
+plaid orange contain 1 clear black 3 striped red 4 dark turquoise 4 dull coral
+shiny tan contain 3 dotted coral 3 posh orange 5 vibrant tan
+clear plum contain 5 dim beige 1 pale gray 1 clear purple 5 posh coral
+bright turquoise contain 2 plaid orange
+dotted plum contain 5 faded olive 5 clear white
+shiny green contain 4 drab maroon 2 drab purple
+plaid tomato contain 1 vibrant tomato 2 posh coral 3 faded beige 2 faded chartreuse
+wavy lime contain 4 striped olive 1 vibrant beige
+striped brown contain 4 drab gray 2 clear white 3 bright lime 3 vibrant magenta
+dark orange contain 1 wavy silver 5 muted magenta 1 dim yellow 1 vibrant purple
+dotted magenta contain 1 mirrored purple
+bright black contain 5 shiny aqua
+clear green contain 4 vibrant gold 4 pale gold
+drab indigo contain 1 bright coral 5 plaid tomato 3 muted chartreuse
+shiny fuchsia contain 5 dim lavender 2 light teal 4 dim lime 3 wavy purple
+vibrant crimson contain 1 dim lavender 5 dark tan 1 dotted turquoise 2 striped red
+clear red contain 5 wavy magenta 2 bright plum
+dotted red contain 3 pale cyan
+striped black contain 3 pale red 1 clear beige 3 dull coral
+plaid crimson contain 4 wavy violet 1 clear gray
+muted silver contain 1 muted chartreuse 2 shiny bronze 1 striped brown 1 posh coral
+drab green contain 1 faded white 5 posh orange 2 dim magenta 3 wavy purple
+vibrant olive contain 5 dark yellow 1 pale black 1 drab olive 5 shiny gold
+bright cyan contain 2 dim tomato 2 plaid brown 1 bright plum 5 drab lavender
+dotted blue contain 2 pale tan 1 striped green 2 striped lime 3 shiny tomato
+faded yellow contain 3 posh maroon 1 dull tomato 2 pale cyan
+dark black contain 3 shiny purple 2 clear violet 5 wavy brown
+vibrant bronze contain 5 pale salmon
+wavy chartreuse contain 1 posh turquoise 1 vibrant silver 3 plaid teal 1 dotted salmon
+faded black contain 1 light tan 1 faded beige
+dim beige contain 3 muted fuchsia 5 striped plum 1 faded violet 5 clear chartreuse
+striped plum contain 1 posh black 2 plaid lime 4 clear white
+dotted silver contain 2 vibrant gray 5 clear white 2 vibrant tomato
+dull salmon contain 4 pale plum 2 pale magenta 1 light gray
+pale maroon contain 3 vibrant white
+light blue contain 3 mirrored maroon
+striped aqua contain 5 dark purple 1 striped green 4 mirrored coral
+mirrored beige contain 1 shiny fuchsia 1 dim plum
+pale aqua contain 5 mirrored green
+dim red contain 2 mirrored maroon 4 dotted yellow 5 dim tomato 4 faded silver
+light bronze contain 1 dim orange 1 posh tomato 5 mirrored white
+plaid coral contain 5 vibrant tomato 5 pale bronze 3 dotted turquoise 2 drab brown
+dull violet contain 2 muted chartreuse
+wavy teal contain 3 shiny plum 5 dark lavender
+wavy cyan contain 5 faded red 4 light bronze 5 shiny bronze 4 dull silver
+faded olive contain 4 wavy magenta 1 striped red
+drab tomato contain 5 plaid cyan 1 plaid chartreuse 1 dim tomato
+clear chartreuse contain 4 striped brown 2 plaid lime
+dull olive contain 1 dull purple 2 plaid yellow
+dim silver contain 3 pale tomato 1 plaid chartreuse
+dotted coral contain 5 pale salmon 4 dim coral 4 striped fuchsia 2 dim turquoise
+bright fuchsia contain 4 light gold 3 shiny crimson 3 clear white
+bright brown contain 1 vibrant tomato 2 wavy teal 3 dotted red
+striped cyan contain 3 bright lime
+clear turquoise contain 5 mirrored maroon
+posh brown contain 5 vibrant silver 4 bright lime
+wavy aqua contain 4 wavy indigo 1 faded crimson 4 drab indigo
+pale chartreuse contain 2 faded salmon
+clear gold contain 2 faded turquoise 1 shiny magenta
+muted beige contain 5 mirrored indigo 1 clear violet
+light white contain 1 vibrant magenta
+muted cyan contain 2 plaid white 5 mirrored black 4 pale gold 5 drab magenta
+muted teal contain 1 pale orange
+vibrant cyan contain 2 dotted magenta 1 clear tan
+wavy white contain 1 faded blue
+striped silver contain 5 light crimson 4 clear salmon 1 shiny green
+shiny teal contain 1 wavy coral
+dim black contain 3 vibrant silver 1 clear maroon 4 bright chartreuse
+dim plum contain 2 posh coral 3 dark crimson 1 drab olive
+wavy bronze contain 2 faded olive 2 dim red 2 pale brown
+dim turquoise contain 3 dull teal 5 shiny bronze 2 striped orange 1 dim fuchsia
+posh lime contain 4 muted tomato 3 muted brown 1 bright olive
+shiny cyan contain 3 faded purple 5 wavy chartreuse 4 shiny maroon
+pale blue contain 2 striped turquoise 2 dull turquoise
+muted black contain 4 pale turquoise 4 pale beige 4 mirrored black
+posh gold contain 1 light brown 4 posh yellow 5 dim violet
+plaid olive contain no other
+dotted beige contain 4 clear tan 1 shiny fuchsia 3 posh green 4 wavy purple
+dull magenta contain 3 muted lime 5 mirrored blue
+striped green contain 5 light cyan
+dark white contain 2 wavy yellow 5 dim salmon 2 bright green
+muted lavender contain 3 dotted teal 5 dotted bronze 2 mirrored lime 5 dim fuchsia
+dotted indigo contain 5 drab chartreuse 1 dim lime 3 plaid white 2 shiny plum
+light indigo contain 5 bright tan
+faded turquoise contain 3 faded cyan 4 dull salmon 3 dark bronze
+mirrored magenta contain 1 clear turquoise 4 wavy plum
+dull brown contain 5 dim tomato
+plaid aqua contain 4 bright teal 3 dim gray 3 clear crimson 5 clear chartreuse
+drab red contain 2 plaid purple 3 muted silver
+wavy plum contain 3 wavy indigo 3 posh cyan
+bright aqua contain 1 dim magenta
+dotted violet contain 4 light orange
+wavy salmon contain 3 wavy turquoise 1 dark lavender 3 striped silver 3 posh coral
+posh beige contain 1 pale black
+clear bronze contain 4 clear teal 3 dim crimson
+pale teal contain 1 dark bronze 4 plaid maroon 4 light magenta
+mirrored violet contain 2 clear beige
+drab blue contain 1 faded yellow
+light violet contain 4 plaid aqua
+vibrant chartreuse contain 1 mirrored beige
+pale salmon contain 5 drab gray 3 muted brown 2 dotted plum
+plaid violet contain 5 muted blue 4 wavy black
+bright tan contain 1 bright white 4 posh cyan
+vibrant purple contain 2 dark plum 4 bright brown
+drab tan contain 5 dull orange 4 plaid fuchsia
+dotted tan contain 2 drab violet 1 light turquoise 2 clear indigo
+vibrant maroon contain 1 drab silver 1 plaid plum
+dull white contain 2 dotted crimson 1 light orange 2 dark lavender 5 plaid blue
+wavy orange contain 1 shiny fuchsia 2 clear lavender
+faded fuchsia contain 2 dim purple 4 muted yellow 3 muted brown
+dim tan contain 1 shiny purple 5 wavy magenta 4 faded beige 2 vibrant lime
+bright white contain 1 dim plum 1 light gray 2 muted fuchsia
+pale lavender contain 2 faded lime 1 faded tan 3 dotted maroon
+dim fuchsia contain 2 clear lavender 5 dotted red 3 vibrant chartreuse
+pale silver contain 5 posh black
+faded salmon contain 4 light white 2 plaid brown 3 vibrant yellow
+faded bronze contain 5 mirrored white 5 striped plum 4 dim magenta 2 faded lime
+shiny gray contain 1 striped salmon 3 clear crimson
+drab lime contain 5 light crimson
+bright orange contain 4 plaid tomato 1 mirrored bronze
+dark crimson contain 5 striped red
+dull teal contain 4 wavy indigo 1 drab brown 3 light cyan 4 dotted gold
+light maroon contain 2 bright violet 2 dim gray 3 shiny turquoise
+faded coral contain 4 dark teal
+shiny bronze contain 3 pale salmon 3 pale plum
+dim violet contain 3 vibrant magenta 4 shiny bronze
+pale red contain 5 drab silver
+dark tomato contain 4 shiny lime 5 wavy purple 4 shiny blue 5 drab gold
+dull gold contain 5 light olive 1 light gray
+posh tan contain 4 dull gold 3 vibrant turquoise 2 plaid aqua 5 dim indigo
+bright gray contain 5 pale yellow
+plaid salmon contain 3 shiny indigo
+dotted bronze contain 5 mirrored black 3 muted indigo 3 faded yellow 3 bright teal
+mirrored crimson contain 2 pale salmon 1 plaid maroon
+wavy brown contain 1 drab turquoise 3 posh yellow
+muted coral contain 4 clear blue 5 dark cyan
+wavy yellow contain 2 drab brown 2 striped olive 1 wavy white
+muted aqua contain 2 light tan 2 pale yellow 5 plaid lime
+drab crimson contain 5 plaid cyan 3 dim plum
+vibrant yellow contain 2 faded maroon 4 mirrored olive 2 plaid red
+faded silver contain 4 dim lime 4 dark tomato 5 muted magenta 1 dotted red
+drab violet contain 2 vibrant aqua
+faded teal contain 2 light gold 5 striped turquoise 2 dim salmon 2 posh tomato
+wavy magenta contain 4 faded blue 1 muted brown 3 pale brown
+vibrant salmon contain 2 posh turquoise 1 dark crimson
+bright olive contain 4 light teal 2 vibrant lime 3 dull salmon 2 dull tomato
+plaid teal contain 5 striped teal
+dark cyan contain 3 dull brown 4 posh violet
+muted olive contain 1 faded blue 5 dotted brown
+dark violet contain 3 mirrored beige
+drab orange contain 4 faded aqua 1 striped red 5 mirrored maroon
+wavy gray contain 4 mirrored green
+faded white contain 3 dim lavender 3 clear silver
+faded lavender contain 2 posh violet 4 striped violet 2 clear silver 2 faded cyan
+light red contain 2 bright white 1 dull gray 3 bright lavender
+bright beige contain 3 mirrored silver
+shiny magenta contain 1 light silver
+striped teal contain 1 plaid lime 2 clear tomato 1 clear chartreuse
+dim olive contain 5 pale white 5 wavy black 4 faded magenta 4 dark red
+dull tan contain 3 dark lavender 5 faded violet
+striped purple contain 5 wavy violet 5 light gold
+dim crimson contain 5 striped magenta
+faded beige contain 2 striped brown 3 dark salmon
+light purple contain 2 bright lavender 5 vibrant lime 3 striped blue
+mirrored blue contain 2 clear white 2 drab cyan 5 light cyan
+dull silver contain 1 shiny bronze 1 dotted beige
+pale crimson contain 2 shiny turquoise
+wavy indigo contain 5 clear white 5 plaid cyan 1 muted brown 1 pale yellow
+bright chartreuse contain 3 posh crimson 5 shiny maroon
+vibrant silver contain 3 striped aqua 5 striped gold 2 dim lime 4 clear chartreuse
+dark purple contain 4 plaid lavender 3 clear chartreuse 4 striped teal
+vibrant turquoise contain 1 light gold 1 light turquoise 4 muted indigo 2 wavy magenta
+vibrant tan contain 1 dull purple 5 vibrant beige
+dim salmon contain 1 striped violet 5 light teal 5 light tan 5 striped brown
+muted violet contain 5 bright brown 5 faded aqua 3 clear purple 4 plaid lavender
+mirrored gray contain 4 drab maroon 3 posh violet
+striped blue contain 2 plaid cyan 5 pale gold
+vibrant gray contain 4 pale magenta 4 vibrant bronze 3 drab silver 4 posh tomato
+faded tan contain 4 plaid olive
+muted green contain 2 posh cyan 1 plaid lime 5 muted crimson
+shiny tomato contain 3 wavy violet 4 posh coral 3 striped red
+muted plum contain 2 plaid salmon
+pale indigo contain 3 pale cyan 5 vibrant lime 5 vibrant tomato
+mirrored fuchsia contain 4 posh gray 3 muted tan 4 dim blue
+dark lime contain 3 clear black 3 dark tomato 2 mirrored black
+muted white contain 3 shiny black 5 dark purple 3 vibrant silver
+striped gray contain 5 dark salmon
+dotted fuchsia contain 1 mirrored red 3 dotted lavender
+posh maroon contain 1 mirrored beige
+vibrant plum contain 3 clear red
+posh turquoise contain 2 shiny magenta
+light black contain 4 light orange 1 dark salmon 4 striped plum
+clear yellow contain 1 posh aqua
+dim purple contain 2 striped green
+muted tan contain 4 mirrored gray 1 dotted violet
+drab silver contain 5 clear chartreuse 1 drab olive 2 posh coral 5 bright lime
+plaid bronze contain 3 wavy black 4 wavy orange 3 dim tomato 3 muted teal
+dark green contain 5 dull red 3 bright crimson 5 shiny salmon 1 muted purple
+bright silver contain 1 striped cyan
+striped lime contain 2 dim magenta 5 faded chartreuse 2 clear indigo
+dotted gold contain 2 light cyan
+drab black contain 5 faded red 5 plaid orange
+dim magenta contain 5 dull coral
+light plum contain 4 light yellow 5 shiny bronze 5 posh purple 5 plaid olive
+dotted cyan contain 5 light salmon 4 dull tomato 3 clear blue
+posh blue contain 4 muted brown 2 muted aqua
+posh gray contain 4 pale green 2 faded chartreuse 2 drab blue
+clear tan contain 4 clear gray
+mirrored salmon contain 1 dull tan 4 mirrored plum 5 muted tan 3 plaid blue
+light brown contain 1 dim chartreuse
+dull lavender contain 1 drab white 5 dull indigo
+striped violet contain 5 muted brown 3 plaid cyan 2 light gray
+clear crimson contain 1 drab teal 5 dark tan 1 pale salmon 4 dull turquoise
+dim white contain 3 bright olive
+dim green contain 4 light silver 1 wavy green 1 striped gold
+dull maroon contain 4 wavy magenta
+striped lavender contain 5 faded white 4 mirrored tomato 5 mirrored crimson
+faded tomato contain 4 pale gray
+pale cyan contain 1 dull beige 4 light white 5 clear tan
+wavy tomato contain 5 dotted silver 5 faded gray 1 striped teal
+dim tomato contain 4 bright lime 3 dim lavender 3 muted tomato 4 dark crimson
+striped tomato contain 3 plaid chartreuse 4 light cyan
+plaid gold contain 1 dark yellow
+dark silver contain 2 dull blue 2 bright purple 5 dim tomato
+dotted purple contain 4 striped blue
+dark fuchsia contain 2 light cyan
+dotted salmon contain 3 drab teal 5 dotted teal 4 vibrant white
+mirrored gold contain 2 striped salmon 5 pale fuchsia 3 dull purple
+posh violet contain 1 dim salmon 5 clear gold 1 bright salmon
+shiny beige contain 2 muted brown 4 shiny gold 5 wavy indigo
+plaid cyan contain 5 muted tomato 4 drab gray 2 dark crimson 1 striped brown
+vibrant lime contain 5 dull magenta
+clear black contain 3 wavy lavender
+light coral contain 2 pale salmon 1 striped brown 5 mirrored plum 1 drab gold
+faded aqua contain 2 pale blue 4 drab lavender
+wavy gold contain 1 dotted plum
+shiny turquoise contain 4 dull gray 2 dim orange
+dull purple contain 1 shiny gold 3 plaid olive
+dull coral contain 1 faded tan 4 clear chartreuse 3 shiny crimson 4 plaid lavender
+dull red contain 5 dotted beige 4 striped tomato 1 shiny yellow
+bright bronze contain 2 wavy black 5 mirrored bronze
+faded violet contain 3 pale yellow 5 posh cyan 5 wavy purple 5 vibrant magenta
+shiny blue contain 1 dotted teal 4 wavy purple 2 striped brown 3 bright lavender
+striped salmon contain 2 light tan 4 striped red 1 striped indigo 1 pale gold
+shiny silver contain 4 faded silver 4 clear maroon
+faded crimson contain 1 faded bronze 5 dull brown 5 posh plum 3 shiny plum
+vibrant tomato contain 3 plaid cyan 5 drab teal 5 dotted crimson 5 light tan
+plaid red contain 2 vibrant gray 5 shiny bronze 5 dull black 2 light yellow
+muted red contain 2 clear indigo 4 dotted lime 3 dim gray 1 mirrored lime
+mirrored chartreuse contain 2 dull black 1 dark white
+dim gold contain 3 plaid blue 2 dotted purple
+pale white contain 3 pale yellow 1 bright tan 4 striped orange 4 light yellow
+light magenta contain 3 light black 4 muted turquoise
+shiny lime contain 1 drab cyan
+light teal contain 3 dim plum 1 posh black 3 dull beige
+plaid black contain 4 faded silver 2 faded magenta
+clear orange contain 1 posh orange 4 bright orange 5 clear indigo
+clear coral contain 3 faded crimson 1 dull silver
+muted lime contain 2 dim plum
+shiny purple contain 5 faded aqua
+vibrant gold contain 5 drab lavender 4 striped red
+clear white contain no other
+posh aqua contain 2 light blue 1 posh turquoise 4 faded teal 3 dotted purple
+posh black contain no other
+mirrored maroon contain 4 plaid blue 3 dotted maroon 5 striped plum
+dotted crimson contain 5 striped salmon 1 pale brown 1 posh black 5 bright lime
+striped orange contain 4 faded olive
+posh teal contain 2 faded lavender 3 dim indigo
+striped bronze contain 2 bright lavender 2 plaid olive 3 vibrant brown 5 pale maroon
+dull orange contain 3 dark crimson 5 pale salmon 4 vibrant gray 4 plaid olive
+clear maroon contain 2 wavy gray 2 clear blue
+clear tomato contain 1 drab olive 2 muted brown
+dark aqua contain 3 striped white
+dull chartreuse contain 3 faded tan 3 light orange 2 clear chartreuse
+dim cyan contain 1 shiny green 4 vibrant brown 4 faded yellow 1 striped aqua
+pale orange contain 3 drab indigo 4 plaid green 2 wavy lavender
+dull cyan contain 5 mirrored turquoise 3 posh indigo 5 drab tomato 3 bright aqua
+drab brown contain 2 clear tan 1 faded yellow 4 vibrant coral 3 mirrored blue
+plaid blue contain 1 light teal 1 faded tan
+dotted orange contain 5 dull fuchsia 3 muted brown
+muted salmon contain 2 wavy coral
+pale brown contain 4 light tan 3 dim coral 2 plaid olive 4 striped brown
+wavy tan contain 4 mirrored blue 1 posh purple
+mirrored plum contain 4 plaid tan 3 wavy yellow 4 vibrant magenta 3 pale lavender
+bright purple contain 4 dark red 5 clear white
+shiny chartreuse contain 4 posh plum
+shiny violet contain 4 mirrored indigo 1 faded beige
+drab maroon contain 5 posh cyan
+dim lavender contain 2 vibrant magenta 4 posh black 5 bright lime 3 light tan
+shiny gold contain 2 muted fuchsia 3 clear silver
+wavy violet contain 2 vibrant magenta 5 striped red 4 plaid lime 2 bright lime
+light beige contain 3 pale tan
+dotted lavender contain 5 dim plum 1 dull magenta
+clear teal contain 2 plaid yellow 4 light blue 4 striped maroon 1 vibrant olive
+faded purple contain 2 clear olive 4 mirrored teal 2 plaid gold
+pale lime contain 5 drab yellow 4 bright coral
+plaid beige contain 2 faded violet 5 plaid tan
+wavy lavender contain 5 striped brown
+dull tomato contain 4 faded olive
+plaid plum contain 4 faded cyan 2 clear olive
+dark gray contain 2 dark red 3 clear indigo 5 dim tomato
+plaid lavender contain 5 plaid green 1 shiny tomato
+dim aqua contain 5 clear silver
+dark salmon contain 1 drab olive 5 posh coral
+vibrant violet contain 3 dim plum 3 dim turquoise 3 striped orange
+mirrored red contain 3 dull gray 5 mirrored violet 3 vibrant coral
+mirrored brown contain 3 vibrant tomato 1 wavy lavender
+mirrored bronze contain 1 striped orange 1 drab gray
+dotted lime contain 5 drab cyan 3 dotted maroon 2 vibrant white 5 plaid crimson
+dotted chartreuse contain 5 bright maroon
+clear violet contain 5 striped orange 2 muted lime 4 vibrant bronze 2 drab silver
+plaid magenta contain 2 bright blue 2 shiny chartreuse
+mirrored orange contain 1 striped yellow 1 drab gold 5 striped beige 4 pale brown
+drab salmon contain 5 clear yellow 1 dark beige
+drab magenta contain 4 dull gray 4 faded tan
+dim maroon contain 4 striped teal 5 striped black 2 drab indigo 4 vibrant beige
+wavy olive contain 5 faded chartreuse 2 dotted lavender 3 wavy brown 3 dim turquoise
+light aqua contain 3 dark violet 3 posh tomato
+dark chartreuse contain 3 light plum 4 vibrant chartreuse 3 dotted purple 1 light turquoise
+shiny red contain 4 dotted maroon 3 dull coral 3 dim coral
+dark gold contain 3 dim chartreuse
+dark turquoise contain 4 dark olive
+plaid yellow contain 1 dark salmon 3 drab olive 4 posh fuchsia 3 mirrored teal
+muted tomato contain 1 vibrant magenta 2 light cyan
+dark brown contain 4 muted magenta 3 light turquoise 5 dim silver
+dark bronze contain 2 striped red 4 vibrant coral
+posh fuchsia contain 2 faded tan
+dark teal contain 5 dark salmon 1 faded violet 2 drab olive 4 dim plum
+drab yellow contain 4 plaid tan 1 dull white 3 dull violet
+dotted gray contain 2 vibrant lavender 1 striped aqua 5 drab violet 1 light red
+drab purple contain 5 posh orange
+striped crimson contain 3 striped salmon 1 posh plum 1 pale orange 5 posh indigo
+muted orange contain 4 muted silver 4 dotted plum 5 shiny blue
+muted gray contain 2 muted salmon 3 bright bronze 5 bright brown
+dull turquoise contain 2 plaid olive 5 striped turquoise 5 muted brown 1 vibrant magenta
+dotted maroon contain 2 dim salmon 5 clear white 4 wavy black
+striped coral contain 2 shiny violet 5 plaid maroon 3 bright tan 4 mirrored chartreuse
+dark tan contain 4 faded white
+posh plum contain 5 pale brown 3 muted brown 4 posh cyan 1 light turquoise
+shiny plum contain 4 dull turquoise 1 shiny gold
+posh indigo contain 1 bright brown 2 dull silver
+muted fuchsia contain 5 plaid olive
+drab bronze contain 3 drab coral 3 dull chartreuse 2 posh turquoise
+shiny white contain 5 dark tan 5 shiny magenta
+mirrored green contain 5 light maroon 1 light gold
+mirrored aqua contain 1 striped chartreuse 4 faded coral 1 muted silver
+vibrant orange contain 3 plaid tan
+shiny black contain 1 mirrored gray 1 posh fuchsia 3 muted salmon 4 dotted crimson
+dark blue contain 1 shiny tomato 5 posh beige
+bright crimson contain 1 striped green
+posh chartreuse contain 3 dim magenta 2 dull orange
+pale gray contain 1 drab coral
+muted gold contain 1 muted orange 5 faded beige 1 wavy tomato 5 posh lime
+faded red contain 3 dark bronze
+striped maroon contain 1 dark salmon 4 dim coral 1 posh coral
+muted magenta contain 4 muted teal 5 dotted turquoise 3 pale plum 4 faded bronze
+vibrant aqua contain 4 faded crimson
+bright teal contain 4 bright olive 5 mirrored black 4 drab coral 3 dotted beige
+dim orange contain 2 shiny fuchsia 3 striped magenta
+dotted white contain 5 mirrored blue 3 shiny tomato 1 dull coral
+clear magenta contain 3 dark teal 3 vibrant white
+light fuchsia contain 5 light violet 2 striped aqua

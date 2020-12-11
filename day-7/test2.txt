@@ -1,0 +1,5 @@
+faded blue contain no other
+dotted black contain no other
+vibrant plum contain 5 faded blue 6 dotted black
+dark olive contain 3 faded blue 4 dotted black
+shiny gold contain 1 dark olive
