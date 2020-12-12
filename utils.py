@@ -12,3 +12,10 @@ def read_file_by_group(filename: str) -> List[str]:
         data = file.read().replace('\n\n', '&&&').replace('\n', ' ').split('&&&')
     return data
 
+
+def read_file_as_ints(filename: str) -> List[int]:
+    data = []
+    with open(filename) as file:
+        for line in file.readlines():
+            data.append(eval(line))
+    return data
